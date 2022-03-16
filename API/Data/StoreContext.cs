@@ -9,8 +9,7 @@ namespace API.Data
     {
     }
 
+    //Products is the name of the table in DB
     public DbSet<Product> Products { get; set; }
-    
-    
   }
 }

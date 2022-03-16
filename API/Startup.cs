@@ -27,6 +27,7 @@ namespace API
       {
         c.SwaggerDoc("v1", new OpenApiInfo { Title = "API", Version = "v1" });
       });
+      // Adding DB as a service
       services.AddDbContext<StoreContext>(opt =>
       {
         opt.UseSqlite(Configuration.GetConnectionString("DefaultConnection"));
