@@ -4,11 +4,11 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
+.rsuser
+.suo
+.user
+.userosscache
+.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -77,7 +77,7 @@ StyleCopReport.xml
 *.obj
 *.iobj
 *.pch
-*.pdb
+.pdb
 *.ipdb
 *.pgc
 *.pgd
@@ -94,7 +94,7 @@ StyleCopReport.xml
 *.vspscc
 *.vssscc
 .builds
-*.pidb
+.pidb
 *.svclog
 *.scc
 
