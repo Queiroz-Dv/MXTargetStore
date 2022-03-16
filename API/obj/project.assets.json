@@ -1303,11 +1303,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Dubst\\Music\\MXTargetStore\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Dubst\\Music\\MXTargetStore\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\Dubst\\Music\\MXTargetStore\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Dubst\\Music\\MXTargetStore\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Dubst\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Dubst\\Music\\MXTargetStore\\API\\obj\\",
+      "outputPath": "C:\\Users\\Dubst\\Music\\MXTargetStore\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1320,6 +1320,7 @@
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

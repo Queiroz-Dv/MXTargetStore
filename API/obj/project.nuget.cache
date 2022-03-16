@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJqJk/wn1YK8jUq6wggc53zY9/TkI6I0UxzZLbr7y/vd+kuejY2nJ8vngOh63PR5bGKIXHsdpJ05P9KTY2g0Eg==",
+  "dgSpecHash": "7Ovn53i8bZMAeHctHMOJGrE6N6tig2OZ56qj7PvduFR9s0nbU2MYzZO1Pk4W9I7NBM6PlOw8W6x6j4efd1ATcw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Dubst\\Music\\MXTargetStore\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Dubst\\Music\\MXTargetStore\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dubst\\.nuget\\packages\\entityframework\\6.0.0\\entityframework.6.0.0.nupkg.sha512",
     "C:\\Users\\Dubst\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
