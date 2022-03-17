@@ -8,9 +8,7 @@ namespace API.Data
     public StoreContext(DbContextOptions options) : base(options)
     {
     }
-
+    //Products is the name of the table in DB
     public DbSet<Product> Products { get; set; }
-    
-    
   }
 }
