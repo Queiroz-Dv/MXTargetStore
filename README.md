@@ -6,6 +6,7 @@ This is an study's project to understand the concepts about API and other tecnol
 
 - ASP NET API
 - Entity Framework
+- React
 
 ## 🧐 How the .NET API works?
 
